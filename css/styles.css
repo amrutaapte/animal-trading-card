@@ -1,0 +1,36 @@
+.card{
+	width: 320px;
+	border: 2px solid cyan;
+	margin: 20px;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	box-shadow: 3px 13px 36px 1px;
+	max-height: 800px;
+
+	font-style: Georgia, Arial;
+}
+
+.header{
+	font-size: 30px;
+}
+
+.list-item span{
+	font-weight: bold;
+}
+
+img{
+    width: 300px;
+	padding: 9px;
+	border-radius: 5px;
+}
+
+.description{
+	font-size: 17px; 
+}
+
+.content{
+	background-color: cyan;
+	max-width: 280px;
+	margin: 10px;
+	border-radius: 5px;
+}
